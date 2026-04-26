@@ -5,7 +5,7 @@
 Data Analyst with a background in mechanical engineering and additive manufacturing.
 
 I started my career working directly with machines, materials and production processes.  
-On the shop floor, I often saw decisions being made based on experience and intuition — even when data was available.
+On the shop floor, I often saw decisions being made based on experience and intuition even when data was available.
 
 That’s what pushed me to move into data analysis.
 
