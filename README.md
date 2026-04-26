@@ -29,7 +29,7 @@ Today, I focus on understanding how systems behave through data and how they can
 |--------|--------------|------|
 | 🔋 [Solar Energy Monitoring Dashboard](https://github.com/AmruthrajGudimalla/solar-energy-dashboard) | Helps plan production based on energy availability | Python, Streamlit, SQL |
 | 🏭 [Industrial Defect Detection](https://github.com/AmruthrajGudimalla/Industrial-defect-detection-case-study) | Supports inspection by detecting defects in images | Python, ML, OpenCV |
-| 📈 Manufacturing Analytics *(in progress)* | Identifies bottlenecks and improves utilization | Python, SQL, Power BI |
+| 📈 Manufacturing Analytics | Identifies bottlenecks and improves utilization | Python, SQL, Power BI |
 
 ---
 
