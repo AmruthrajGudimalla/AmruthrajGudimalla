@@ -50,4 +50,4 @@ Machine Learning  →   Forecast   →   Applied Use Cases
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/amruthraj-gudimalla
+- LinkedIn: https://www.linkedin.com/in/amruthraj-gudimalla/
