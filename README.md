@@ -48,4 +48,4 @@ Data Analyst | BI Analyst | Industrial Analytics
 
 ## 📫 Contact
 
-- LinkedIn: (add your link)
+- LinkedIn: (https://www.linkedin.com/in/amruthraj-gudimalla/)
