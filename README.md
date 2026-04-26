@@ -26,7 +26,7 @@ Built a data pipeline and dashboard combining solar generation and weather data 
 ### 🏭 Industrial Defect Detection  
 Developed a computer vision workflow to identify and classify defects in inspection images, focusing on practical industrial use.
 
-### 📈 Manufacturing Analytics *(in progress)*  
+### 📈 Manufacturing Analytics   
 Analyzing production data to identify bottlenecks, improve utilization and track key performance indicators.
 
 ---
