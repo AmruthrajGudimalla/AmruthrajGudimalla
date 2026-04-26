@@ -42,7 +42,7 @@ Using data to improve real systems — especially in:
 
 ## 🤝 Open to Opportunities
 
-Data Analyst | BI Analyst | Industrial Analytics
+Data Analyst | BI Analyst | Industrial Analytics | Data Science (Junior / Entry-level)  
 
 ---
 
