@@ -1,12 +1,15 @@
 # Hi, I'm Amruthraj 👋
 
-### Data Analyst | Industrial Analytics | Applied Machine Learning
+### Turning industrial data into decisions.
 
-I started in mechanical engineering, working closely with machines, materials and production processes.
+Data Analyst with a background in mechanical engineering and additive manufacturing.
 
-Over time, I saw that many decisions on the shop floor were still based on intuition rather than data. That led me to move into data analysis — to understand not just how systems work, but how they can be improved using data.
+I started my career working directly with machines, materials and production processes.  
+On the shop floor, I often saw decisions being made based on experience and intuition — even when data was available.
 
-Today, I focus on turning production, sensor and energy data into clear insights and data-driven solutions.
+That’s what pushed me to move into data analysis.
+
+Today, I focus on understanding how systems behave through data — and how they can be improved using clear, practical insights.
 
 ---
 
@@ -22,32 +25,28 @@ Today, I focus on turning production, sensor and energy data into clear insights
 
 ## 📊 Selected Projects
 
-| Project | Focus | Tools |
-|--------|------|------|
-| 🔋 [Solar Energy Monitoring Dashboard](https://github.com/AmruthrajGudimalla/solar-energy-dashboard) | Energy monitoring & production planning | Python, Streamlit, SQL |
-| 🏭 [Industrial Defect Detection](https://github.com/AmruthrajGudimalla/Industrial-defect-detection-case-study) | Computer vision for inspection | Python, ML, CV |
-| 📈 Manufacturing Analytics *(in progress)* | KPI tracking & bottleneck analysis | Python, SQL, Power BI |
+| Project | What it solves | Tools |
+|--------|--------------|------|
+| 🔋 [Solar Energy Monitoring Dashboard](https://github.com/AmruthrajGudimalla/solar-energy-dashboard) | Helps plan production based on energy availability | Python, Streamlit, SQL |
+| 🏭 [Industrial Defect Detection](https://github.com/AmruthrajGudimalla/Industrial-defect-detection-case-study) | Supports inspection by detecting defects in images | Python, ML, OpenCV |
+| 📈 Manufacturing Analytics *(in progress)* | Identifies bottlenecks and improves utilization | Python, SQL, Power BI |
 
 ---
 
-## 🚀 Focus Areas
+## 🚀 What I focus on
 
-```text
-Industrial Data   →   Analysis   →   Decision Support
-Sensor Data       →   Insights   →   Process Improvement
-Machine Learning  →   Forecast   →   Applied Use Cases
-
-
----
+Production Systems → Data Analysis → Better Decisions
+Sensor Data → Insights → Process Improvement
+Machine Learning → Practical Use → Industrial Applications
 
 ## 🤝 Open to Opportunities
 
 - Data Analyst  
 - BI / Analytics  
-- Applied Data Science (Junior / Entry-level)  
+- Applied Data Science (Junior / Entry-level)
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/amruthraj-gudimalla/
+- LinkedIn: <https://www.linkedin.com/in/amruthraj-gudimalla/>
