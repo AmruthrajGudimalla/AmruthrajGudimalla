@@ -36,3 +36,18 @@ Today, I focus on turning production, sensor and energy data into clear insights
 Industrial Data   →   Analysis   →   Decision Support
 Sensor Data       →   Insights   →   Process Improvement
 Machine Learning  →   Forecast   →   Applied Use Cases
+
+
+---
+
+## 🤝 Open to Opportunities
+
+- Data Analyst  
+- BI / Analytics  
+- Applied Data Science (Junior / Entry-level)  
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/(https://www.linkedin.com/in/amruthraj-gudimalla/)
