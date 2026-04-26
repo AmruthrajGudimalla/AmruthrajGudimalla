@@ -9,7 +9,7 @@ On the shop floor, I often saw decisions being made based on experience and intu
 
 That’s what pushed me to move into data analysis.
 
-Today, I focus on understanding how systems behave through data — and how they can be improved using clear, practical insights.
+Today, I focus on understanding how systems behave through data and how they can be improved using clear, practical insights.
 
 ---
 
