@@ -1,51 +1,38 @@
 # Hi, I'm Amruthraj 👋
 
+### Data Analyst | Industrial Analytics | Applied Machine Learning
+
 I started in mechanical engineering, working closely with machines, materials and production processes.
 
-Over time, I realized that many decisions on the shop floor were still based on intuition rather than data. That’s what pushed me to move into data analysis — to understand not just how systems work, but how they can be improved using data.
+Over time, I saw that many decisions on the shop floor were still based on intuition rather than data. That led me to move into data analysis — to understand not just how systems work, but how they can be improved using data.
 
-Today, I work on turning production, sensor and energy data into clear insights that support real decisions.
-
----
-
-## 🔧 What I work with
-
-- **Python, SQL**
-- **Power BI, Streamlit, Plotly**
-- Data analysis & KPI development  
-- Time-series data & forecasting  
-- Applied machine learning (industrial use cases)
+Today, I focus on turning production, sensor and energy data into clear insights and data-driven solutions.
 
 ---
 
-## 📊 Selected Work
+## 🔧 Tech Stack
 
-### 🔋 Solar Energy Monitoring Dashboard  
-Built a data pipeline and dashboard combining solar generation and weather data to support energy-aware production planning.
-
-### 🏭 Industrial Defect Detection  
-Developed a computer vision workflow to identify and classify defects in inspection images, focusing on practical industrial use.
-
-### 📈 Manufacturing Analytics   
-Analyzing production data to identify bottlenecks, improve utilization and track key performance indicators.
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)
+![Streamlit](https://img.shields.io/badge/Streamlit-Apps-red)
+![Machine Learning](https://img.shields.io/badge/Applied%20ML-Industrial%20Use%20Cases-green)
 
 ---
 
-## 🚀 What I focus on
+## 📊 Selected Projects
 
-Using data to improve real systems — especially in:
-- Manufacturing  
-- Energy  
-- Production environments  
-
----
-
-## 🤝 Open to Opportunities
-
-Data Analyst | BI Analyst | Industrial Analytics | Data Science (Junior / Entry-level)  
+| Project | Focus | Tools |
+|--------|------|------|
+| 🔋 [Solar Energy Monitoring Dashboard](https://github.com/AmruthrajGudimalla/solar-energy-dashboard) | Energy monitoring & production planning | Python, Streamlit, SQL |
+| 🏭 [Industrial Defect Detection](https://github.com/AmruthrajGudimalla/Industrial-defect-detection-case-study) | Computer vision for inspection | Python, ML, CV |
+| 📈 Manufacturing Analytics *(in progress)* | KPI tracking & bottleneck analysis | Python, SQL, Power BI |
 
 ---
 
-## 📫 Contact
+## 🚀 Focus Areas
 
-- LinkedIn: (https://www.linkedin.com/in/amruthraj-gudimalla/)
+```text
+Industrial Data   →   Analysis   →   Decision Support
+Sensor Data       →   Insights   →   Process Improvement
+Machine Learning  →   Forecast   →   Applied Use Cases
